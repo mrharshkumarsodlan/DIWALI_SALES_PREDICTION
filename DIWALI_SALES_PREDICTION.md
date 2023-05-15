@@ -1,0 +1,17 @@
+# DIWALI_SALES_PREDICTION
+DIWALI SALES PREDICTION 
+**Introduction!**
+
+Good day everyone, and welcome to my presentation on Diwali Sale Prediction. Diwali, also known as the festival of lights, is one of the most significant festivals celebrated in India, and it is a time when people indulge in shopping and buying gifts for their loved ones. The retail industry experiences a massive surge in sales during this festive season, and it is crucial for businesses to accurately predict the demand for products and plan their inventory and marketing strategies accordingly.
+In this presentation, I will be sharing my analysis and predictions for Diwali sales based on customer data using machine learning algorithms. I will discuss the data points that I have used, the exploratory data analysis, the machine learning models that I have developed, and the performance metrics and evaluation of these models. Finally, I will present the results of my analysis and discuss their potential impact on the retail industry's business strategy.
+I hope that this presentation will provide valuable insights into predicting Diwali sales and help businesses make data-driven decisions to maximize their profits during this festive season. So, let's dive in and explore the world of Diwali sale prediction!
+
+**Background and Problem Statement!**
+The problem statement for this presentation is to predict Diwali sales for a retail company based on customer data. The objective is to develop machine learning models that can accurately predict the demand for different products during the festive season, based on customer demographics, purchasing history, and other relevant factors. The models will help retailers plan their inventory, pricing, and marketing strategies and maximize their profits during Diwali.
+To achieve this objective, we will use various machine learning algorithms such as linear regression, random forest, and decision tree, k- means cluster. We will analyze customer data points such as user ID, customer name, product ID, gender, age group, age, marital status, state, zone, occupation, product category, orders, amount, and status. We will also perform exploratory data analysis to identify patterns and trends in the data and select the most appropriate features for our models.
+Overall, the goal of this presentation is to provide insights into predicting Diwali sales using customer data and help businesses make data-driven decisions during the festive season.
+**Results and Conclusion!*
+
+Based on our analysis, the GradientBoosting algorithm performed the best in predicting Diwali sales. Using this model, we made sales predictions for the upcoming Diwali season, which the retail company can use to plan their business strategy.
+Our predictions show that the retail company can expect high sales during the Diwali season, with the highest sales being in the product categories of Electronics, Clothing, and Home Appliances. The sales are also expected to be higher for male customers, customers in the age group of 25-40 years, and customers who are employed in executive or managerial positions.
+The impact of these predictions on the retail company's business strategy can be significant. The company can use these predictions to plan their inventory levels, marketing campaigns, and staffing requirements. They can also identify the most profitable product categories and target the most profitable customer segments.
